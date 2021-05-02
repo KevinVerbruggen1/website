@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [word](https://github.com/KevinVerbruggen1/website/blob/main/github%20test.docx)
 
+![Eindwerk](https://github.com/KevinVerbruggen1/website/blob/main/eindwerk%20foto.PNG)
+
 [Eindproject Smartflower](https://www.youtube.com/watch?v=cuw35_lCgug)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

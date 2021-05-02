@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[word](https://github.com/KevinVerbruggen1/website/edit/main/README.md)
 [Eindproject Smartflower](https://www.youtube.com/watch?v=cuw35_lCgug)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

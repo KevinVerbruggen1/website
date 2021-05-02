@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-cv
-[word](https://github.com/KevinVerbruggen1/website/blob/main/github%20test.docx)
+
+[CV](https://github.com/KevinVerbruggen1/website/blob/main/github%20test.docx)
 
 [Eindproject Smartflower (video)](https://www.youtube.com/watch?v=cuw35_lCgug)
 

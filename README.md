@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Eindproject Smartflower (video)](https://www.youtube.com/watch?v=cuw35_lCgug)
 
-[Eindwerk](https://github.com/KevinVerbruggen1/website/blob/main/eindwerk%20foto.PNG)
+![Eindwerk](https://github.com/KevinVerbruggen1/website/blob/main/eindwerk%20foto.PNG)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
